@@ -1,1 +1,1 @@
-# student-management-java21
+Ứng dụng quản lý sinh viên được xây dựng bằng Java Swing
